@@ -1,5 +1,5 @@
 # 定点形变数据处理分析软件
-# PAS-FD V1.0
+# Fixed-point deformation data processing and analysis software (PAS-FD V1.0)
 ## Language
 
 - [English](#english)
